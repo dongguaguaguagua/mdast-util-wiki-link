@@ -1,4 +1,4 @@
-import { fromMarkdown } from './from-markdown'
-import { toMarkdown } from './to-markdown'
+import { fromMarkdownWikiImgLink, fromMarkdownWikiLink } from "./from-markdown";
+import { toMarkdown } from "./to-markdown";
 
-export { fromMarkdown, toMarkdown }
+export { fromMarkdownWikiImgLink, fromMarkdownWikiLink, toMarkdown };
